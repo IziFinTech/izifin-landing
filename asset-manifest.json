@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/izifin-landing/static/css/main.207add28.chunk.css",
-    "main.js": "/izifin-landing/static/js/main.d395f1b6.chunk.js",
-    "main.js.map": "/izifin-landing/static/js/main.d395f1b6.chunk.js.map",
-    "runtime-main.js": "/izifin-landing/static/js/runtime-main.1ddedd9c.js",
-    "runtime-main.js.map": "/izifin-landing/static/js/runtime-main.1ddedd9c.js.map",
-    "static/css/2.786ae0dd.chunk.css": "/izifin-landing/static/css/2.786ae0dd.chunk.css",
-    "static/js/2.0fa7e174.chunk.js": "/izifin-landing/static/js/2.0fa7e174.chunk.js",
-    "static/js/2.0fa7e174.chunk.js.map": "/izifin-landing/static/js/2.0fa7e174.chunk.js.map",
-    "static/js/3.f8bc83ea.chunk.js": "/izifin-landing/static/js/3.f8bc83ea.chunk.js",
-    "static/js/3.f8bc83ea.chunk.js.map": "/izifin-landing/static/js/3.f8bc83ea.chunk.js.map",
-    "index.html": "/izifin-landing/index.html",
-    "static/css/2.786ae0dd.chunk.css.map": "/izifin-landing/static/css/2.786ae0dd.chunk.css.map",
-    "static/css/main.207add28.chunk.css.map": "/izifin-landing/static/css/main.207add28.chunk.css.map",
-    "static/js/2.0fa7e174.chunk.js.LICENSE.txt": "/izifin-landing/static/js/2.0fa7e174.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/izifin-landing/static/media/ProximaNovaFont.7bc9ce40.otf",
-    "static/media/image.f8851136.png": "/izifin-landing/static/media/image.f8851136.png"
+    "main.css": "/static/css/main.8d936af6.chunk.css",
+    "main.js": "/static/js/main.d395f1b6.chunk.js",
+    "main.js.map": "/static/js/main.d395f1b6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0c9bf4e6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0c9bf4e6.js.map",
+    "static/css/2.786ae0dd.chunk.css": "/static/css/2.786ae0dd.chunk.css",
+    "static/js/2.0fa7e174.chunk.js": "/static/js/2.0fa7e174.chunk.js",
+    "static/js/2.0fa7e174.chunk.js.map": "/static/js/2.0fa7e174.chunk.js.map",
+    "static/js/3.f8bc83ea.chunk.js": "/static/js/3.f8bc83ea.chunk.js",
+    "static/js/3.f8bc83ea.chunk.js.map": "/static/js/3.f8bc83ea.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.786ae0dd.chunk.css.map": "/static/css/2.786ae0dd.chunk.css.map",
+    "static/css/main.8d936af6.chunk.css.map": "/static/css/main.8d936af6.chunk.css.map",
+    "static/js/2.0fa7e174.chunk.js.LICENSE.txt": "/static/js/2.0fa7e174.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/ProximaNovaFont.7bc9ce40.otf",
+    "static/media/image.f8851136.png": "/static/media/image.f8851136.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1ddedd9c.js",
+    "static/js/runtime-main.0c9bf4e6.js",
     "static/css/2.786ae0dd.chunk.css",
     "static/js/2.0fa7e174.chunk.js",
-    "static/css/main.207add28.chunk.css",
+    "static/css/main.8d936af6.chunk.css",
     "static/js/main.d395f1b6.chunk.js"
   ]
 }
